@@ -3,7 +3,7 @@
 # Amine Portfolio Showcase 💻
 
 Welcome to Amine's Portfolio Showcase!
-A modern and elegant personal portfolio website built to present my projects, skills, and professional journey using React.js.
+A modern and elegant personal portfolio website built to present my projects, skills, and professional journey using HTML,CSS,JS.
 ---
 
 ## Live Demo 🚀
@@ -35,11 +35,11 @@ You can view the live website here: [Live Demo](https://cozy-crisp-b269de.netlif
 
 ## 🛠 Technologies Used
 
-- **React.js** – Building reusable UI components  
-- **Vite** – Fast development environment and build tool  
-- **JavaScript (ES6+)** – Application logic and functionality  
-- **CSS3** – Styling and responsive layout  
-- **Font Awesome / Boxicons** – Icons
+- **REACT** – Structure and semantic content
+- **CSS3** – Styling, responsive layouts, Flexbox & Grid 
+- **JavaScript (Vanilla JS)** – Interactivity and animations
+- **Font Awesome / Boxicons** – Icons -
+- **AOS.js** – Scroll animations
 
 ---
 
@@ -69,4 +69,4 @@ Made with ❤️ by **Amine Hamzaoui**
 
 
 ```bash
-git clone https://github.com/Saboo24/portofolio11.git
+git clone https://github.com/Saboo24/portofolio8.git
