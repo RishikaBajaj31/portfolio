@@ -558,17 +558,19 @@ hr {
   list-style: none;
 }
 
+.followw {
+  color: #4C628D;
+}
+
 .follow ul a {
   text-decoration: none;
-  color: #ff9db3;
+  color: #4C628D;
   cursor: pointer;
-  transition: 0.3s ease;
+  transition: color 0.3s ease;
 }
 
 .follow ul a:hover {
-  color: #ffffff;
-  text-shadow: 0 0 10px #38bdf8;
-  transform: scale(1.2);
+  color: #2F3A4F;
 }
 
 /* IMAGE */
@@ -1750,4 +1752,18 @@ button[type="submit"]:hover {
     .cert-container {
         grid-template-columns: 1fr;
     }
+}
+
+/* Home social row light-blue override */
+.followw {
+    color: #2F3A4F !important;
+}
+
+.follow ul a {
+    color: #7dd3fc !important;
+    transition: color 0.3s ease !important;
+}
+
+.follow ul a:hover {
+    color: #38bdf8 !important;
 }
